@@ -35,7 +35,7 @@ void zeraRubricasHVTpFol (string strSTARTUP, long PP)
         CADAFIM
         RR = ZEROI;
 
-     SENAO_SE strSTARTUP IGUAL "LÍQUIDO" ENTA
+     SENAO_SE strSTARTUP IGUAL "LÍQUIDO" ENTAO
      SEFIM
   SEFIM
 
