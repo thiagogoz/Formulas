@@ -1,9 +1,3 @@
-/* Techne Engenharia e Sistemas Ltda. */
-/* Cliente : Governo do Estado do Rio Grande do Sul */
-
-/* Fórmulas de Cálculo   Geração - Data: 29/08/2016 Hora: 15:15 */
-/* Mes/Ano de Referência : De 01/2005 até  */
-
 @@ID_ARQ [133646]
 
 @@ID_DB [RHEP]

@@ -1,7 +1,5 @@
 @@ID_ARQ [133646]
 
-@@ID_DB [RHEP]
-
 @@GRUPO [GERAL]  
 @ [REAL     ][12FORMULA  ][zeraRubricasHVTpFol  ][200501-209912] [A] [20160804-15:15:31]
 void zeraRubricasHVTpFol (string strSTARTUP, long PP)
